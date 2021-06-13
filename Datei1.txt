@@ -2,3 +2,5 @@ Das ist Datei 1
 und die erste Änderung
 und die zweite Änderung
 und die dritte Änderung
+--------------
+und die vierte Änderung
